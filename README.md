@@ -1,2 +1,0 @@
-# NeatMobile
-Created with CodeSandbox
